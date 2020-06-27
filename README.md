@@ -1,5 +1,5 @@
 # Machine Learning - Andrew Ng - Coursera
-This project includes my solution for Standfort Machine Learning Course - Andrew Ng.
+This project includes my solution for Stanford Machine Learning Course - Andrew Ng.
 
 ## Instructions
 ```
