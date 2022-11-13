@@ -8,7 +8,7 @@ git clone https://github.com/xzZero/Coursera_Machine_Learning.git
 
 ## Software
 Either MATLAB or Octace can be used for the project:
-* [Matlab](https://github.com/xzZero/Coursera_Machine_Learning.git)
+* [Matlab](https://www.mathworks.com/products/matlab.html)
 * [Octave](https://www.gnu.org/software/octave/download.html)
 
 ### Notes
